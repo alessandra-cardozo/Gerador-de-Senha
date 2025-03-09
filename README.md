@@ -12,7 +12,7 @@ Utilizei o CSS (transition) com a propriedade transition.
 
 3 - setInterval: 
 
-Define o intervalo para alternar a cor a cada 2 segundos (2000 ms).
+Defini o intervalo para alternar a cor a cada 2 segundos (2000 ms).
 
 Garante que as transições de cor sejam automáticas e contínuas.
 
