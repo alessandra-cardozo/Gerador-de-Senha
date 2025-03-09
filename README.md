@@ -1,5 +1,5 @@
 A segurança online é mais crítica do que nunca, e uma das maneiras mais eficazes de proteger suas contas é utilizando senhas fortes e únicas. 
-Construi um aplicativo chamado gerador-senhas.html utilizando tecnologias web padrão: HTML, CSS e JavaScript 
+Construi um aplicativo chamado gerador-senhas.html utilizando tecnologias web padrão: HTML, CSS e JavaScript.
 
 1 - Estrutura Básica do Projeto:
 
