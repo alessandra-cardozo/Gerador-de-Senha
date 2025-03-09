@@ -1,0 +1,88 @@
+/* Estilo geral */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #333;
+  transition: background-color 1s ease; /* Transição suave para mudança de cores */
+}
+
+/* Contêiner principal */
+#gerador-senhas {
+  width: 350px;
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+/* Título */
+#gerador-senhas h1 {
+  font-size: 1.8em;
+  margin-bottom: 15px;
+  color: #444;
+}
+
+/* Campo para exibir a senha */
+#display-senha {
+  width: calc(100% - 40px);
+  padding: 10px;
+  margin: 15px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1em;
+  background-color: #f9f9f9;
+  color: #555;
+  text-align: center;
+  cursor: not-allowed;
+}
+
+/* Slider */
+input[type="range"] {
+  width: 100%;
+  margin: 10px 0;
+}
+
+/* Labels e checkboxes */
+label {
+  display: block;
+  margin: 10px 0;
+  font-size: 0.9em;
+  text-align: left;
+  color: #444;
+}
+
+input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+/* Botões */
+button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  color: #fff;
+  background: linear-gradient(135deg, #0073aa, #005b8f);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background: linear-gradient(135deg, #005b8f, #0073aa);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+button:active {
+  transform: translateY(2px);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+}
