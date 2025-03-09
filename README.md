@@ -14,7 +14,7 @@ Utilizei o CSS (transition) com a propriedade transition.
 
 Ele define o intervalo para alternar a cor a cada 2 segundos (2000 ms).
 
-Garante que as transições de cor sejam automáticas e contínuas.
+O setInterval garante que as transições de cor sejam automáticas e contínuas.
 
 Criei também os botãoe gerar senha, copiar senha e apagar.
 
