@@ -7,7 +7,7 @@ Criei um arquivo HTML básico. Este arquivo servirá como a espinha dorsal do ge
 
 2 - Função mudarCorDeFundo:
 
-Gera uma cor aleatória no formato HSL para criar combinações mais harmônicas e visualmente agradáveis.
+Gera uma cor aleatoria no formato HSL para criar combinações mais harmônicas e visualmente agradáveis.
 Utilizei o CSS (transition) com a propriedade transition.
 
 3 - setInterval: 
